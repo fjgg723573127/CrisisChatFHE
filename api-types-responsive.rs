@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\api-types-responsive.rs
+// Generated at: 2025-10-13T07:15:34.931Z
